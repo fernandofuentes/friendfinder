@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandofuentes/friendfinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandofuentes/friendfinder/issues"
+  },
+  "homepage": "https://github.com/fernandofuentes/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "inquirer": "^4.0.2",
+    "mysql": "^2.15.0"
+  }
+}
